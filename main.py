@@ -54,6 +54,7 @@ def create_seed_ideas(song_info, selected_fields, custom_aesthetic):
         prompt_parts.append(f"The lyrics are: {song_info['Lyrics']}...")
     if custom_aesthetic:
         prompt_parts.append(f"Include these aesthetic elements: {custom_aesthetic}")
+    prompt_parts.append("Do not include a detailed depiction of a person in the idea.")
     complete_prompt = ''.join(prompt_parts)
 
     completion = client.chat.completions.create(
@@ -82,7 +83,7 @@ def create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic):
     """
     system_prompt = """You are a helpful assistant who writes detailed descriptions of album covers. 
     Your responses must be at most 3 sentences with a precise description of the album art.
-    Favour simple ideas over complex visuals. Describe the visuals exactly without suggestion. Do not start with 'the cover art...'. 
+    Favour simple ideas over complex visuals. Describe the visuals literally and exactly without suggestion or metaphor. Do not start with 'the cover art...'. 
     Describe only what the cover art is. Include an aesthetic style in the description.
     Do not include any type of graphic imagery."""
 
