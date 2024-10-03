@@ -20,9 +20,9 @@ if OPENAI_API_KEY is None:
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-def create_seed_ideas(song_info, selected_fields, custom_aesthetic):
+def create_seed_idea(song_info, selected_fields, custom_aesthetic):
     """
-    Creates seed ideas for generating cover art based on song information.
+    Creates a single seed idea for generating cover art based on song information.
 
     Args:
         song_info (dict): A dictionary containing song information.
@@ -30,18 +30,18 @@ def create_seed_ideas(song_info, selected_fields, custom_aesthetic):
         custom_aesthetic (str): Custom aesthetic elements to include in the prompt.
 
     Returns:
-        list: A list of three seed ideas for cover art.
+        str: A single seed idea for cover art.
     """
-    system_prompt = """You are a creative assistant who generates seed ideas for album cover art.
-    Your task is to provide three distinct, brief ideas for album covers based on the given song information.
-    Each idea should be a single sentence, focusing on a unique visual concept.
+    system_prompt = """You are a creative assistant who generates a seed idea for album cover art.
+    Your task is to provide a single, distinct, brief idea for an album cover based on the given song information.
+    The idea should be a single sentence, focusing on a unique visual concept.
     Favour simple ideas over complex visuals. Do not include any words, text, letters or numbers to be displayed in the description.
     Do not include the name of the artist or the song in the art.
     Do not include any type of graphic imagery.
-    Do not include any text or artist names in the ideas."""
+    Do not include any text or artist names in the idea."""
 
     prompt_parts = []
-    prompt_parts.append(f"Generate three distinct seed ideas for cover art for a song ")
+    prompt_parts.append(f"Generate a single seed idea for cover art for a song ")
     if 'Track' in selected_fields:
         prompt_parts.append(f"called '{song_info['Track']}' ")
     if 'Artist (lyrics)' in selected_fields:
@@ -65,8 +65,7 @@ def create_seed_ideas(song_info, selected_fields, custom_aesthetic):
         ]
     )
     
-    seed_ideas = completion.choices[0].message.content.split('\n')
-    return [idea.strip() for idea in seed_ideas if idea.strip()]
+    return completion.choices[0].message.content.strip()
 
 def create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic):
     """
@@ -87,10 +86,7 @@ def create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic):
     Describe only what the cover art is. Include an aesthetic style in the description.
     Do not include any type of graphic imagery."""
 
-    if seed_idea:
-        prompt_parts = [f"Create a detailed description of cover art based on this idea: {seed_idea}. "]
-    else:
-        prompt_parts = ["Create a concise description of cover art for a song "]
+    prompt_parts = [f"Create a detailed description of cover art based on this idea: {seed_idea}. "]
     prompt_parts.append(f"The song genre is: {song_info['Genre']}. ")
     prompt_parts.append(f"The mood is: {song_info['Mood']}. ")
     prompt_parts.append(f"The lyrics are: {song_info['Lyrics']}... ")
@@ -180,7 +176,7 @@ def moderate(text):
     r = client.moderations.create(input=f'Please create a detailed description of art depicting the following: {text}')
     content_violation = r.results[0].flagged
     return content_violation 
-    
+
 def main():
     """
     The main function that runs the Streamlit application for cover art generation.
@@ -203,9 +199,6 @@ def main():
 
     image_style = st.radio("Image Style", ("Natural", "Vivid"))
     image_style = image_style.lower()
-
-    selected_index = song_options.index(selected_song)
-    song_info = song_data.iloc[selected_index]
 
     selected_index = song_options.index(selected_song)
     song_info = song_data.iloc[selected_index]
@@ -242,21 +235,19 @@ def main():
         
         if use_lyrics:
             if moderate(song_info['Lyrics']):
-                #flags.append('Lyrics')
                 pass
 
         if flags:
             st.error(f"The following fields did not pass our moderation check: {', '.join(flags)}. Please ensure all content is appropriate.")
         else:
-            seed_ideas = create_seed_ideas(song_info, selected_fields, custom_aesthetic)
+            seed_idea = create_seed_idea(song_info, selected_fields, custom_aesthetic)
             
-            st.subheader("Generated Seed Ideas:")
-            for i, idea in enumerate(seed_ideas, 1):
-                st.info(f"Idea {i}: {idea}")
+            st.subheader("Generated Seed Idea:")
+            st.info(seed_idea)
 
             images = []
             cols = st.columns(3)
-            for i, (seed_idea, col) in enumerate(zip(seed_ideas, cols), 1):
+            for i, col in enumerate(cols, 1):
                 prompt = create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic)
                 with col:
                     st.text(f"Prompt {i}:")
