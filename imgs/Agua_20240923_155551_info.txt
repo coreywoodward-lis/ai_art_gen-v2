@@ -1,0 +1,8 @@
+Song: Agua
+Artist: Saib
+Genres: lo-fi beats, japanese chillhop, chillhop
+Mood: nan
+Lyrics: True
+Prompt: A serene watercolor painting featuring a flowing river surrounded by lush green foliage and colorful flowers. The soft blue hues of the water contrast gently with the vibrant greens and pops of floral colors. The atmosphere is tranquil and natural.
+Generated: 20240923_155551
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-G2hOYFKDSTnOHhgKR6ZURABR.png?st=2024-09-23T13%3A55%3A49Z&se=2024-09-23T15%3A55%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-23T00%3A26%3A25Z&ske=2024-09-24T00%3A26%3A25Z&sks=b&skv=2024-08-04&sig=5N4JffdtY/xVLd6hJVvBXkH0FiGhnNaPMX2uzYtGAMI%3D

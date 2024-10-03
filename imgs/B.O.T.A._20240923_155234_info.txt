@@ -1,0 +1,8 @@
+Song: B.O.T.A.
+Artist: Eliza Rose
+Genres: house, breaks, experimental house
+Mood: ["happy"]
+Lyrics: True
+Prompt: A vibrant collage of neon-colored shapes and patterns forms the background. A stylish, confident woman wearing oversized sunglasses and bold accessories is centered in the foreground. She exudes a carefree, playful attitude with a catchy, colorful design.
+Generated: 20240923_155234
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-69Wycyxh4jolhWMxov0t9ePs.png?st=2024-09-23T13%3A52%3A32Z&se=2024-09-23T15%3A52%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-22T23%3A49%3A06Z&ske=2024-09-23T23%3A49%3A06Z&sks=b&skv=2024-08-04&sig=ZchMi56SaGP49C0bjpNa9bTddA/YEWxc/jq6EuHF6Sg%3D

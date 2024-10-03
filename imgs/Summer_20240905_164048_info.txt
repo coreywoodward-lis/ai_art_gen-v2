@@ -1,0 +1,8 @@
+Song: Summer
+Artist: Calvin Harris
+Genres: uk dance, progressive house, pop, house, electro house, edm, dance pop
+Mood: ["happy","energetic","uplifting"]
+Lyrics: True
+Prompt: A bright, sunlit beach scene with a clear blue sky. Palm trees are swaying gently, and a golden sand path leads to the water. Vibrant colors dominate, providing a cheerful and energetic tone.
+Generated: 20240905_164048
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-P8Is7IvM45ApKHw6dvJHvGla.png?st=2024-09-05T14%3A40%3A44Z&se=2024-09-05T16%3A40%3A44Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-04T21%3A43%3A25Z&ske=2024-09-05T21%3A43%3A25Z&sks=b&skv=2024-08-04&sig=RVlHvMWT085UxkRE2mux64iQvwnOseCIMpWvqwjYxtI%3D

@@ -1,0 +1,8 @@
+Song: Why Why Why
+Artist: Shaun Mendes
+Genres: viral pop, pop, canadian pop
+Mood: nan
+Lyrics: True
+Prompt: A minimalist design featuring a black and white photograph of a spiral staircase, shot from above to capture the repetitive, circular motion. The image is set against a clean white background with subtle shading that emphasizes the modern aesthetic. The overall composition evokes a sense of introspection and cyclical thoughts.
+Generated: 20240905_163806
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-NmZ429k0APoWpZeFWtQfXE3r.png?st=2024-09-05T14%3A38%3A04Z&se=2024-09-05T16%3A38%3A04Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-04T21%3A20%3A29Z&ske=2024-09-05T21%3A20%3A29Z&sks=b&skv=2024-08-04&sig=oslIJ%2BtkotIHwaJ91d9OsNrH82qBMmEBimdMqE4/JlE%3D

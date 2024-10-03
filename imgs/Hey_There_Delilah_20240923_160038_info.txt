@@ -1,0 +1,8 @@
+Song: Hey There Delilah
+Artist: Plain White Ts
+Genres: pop rock, pop punk, neo pop punk, neo mellow, modern rock
+Mood: nan
+Lyrics: True
+Prompt: A black-and-white illustration of a cityscape, with an outlined depiction of a young woman leaning against a window. The city lights twinkle faintly in the background. Soft, sketch-like lines define the scene, evoking a sense of longing and distance.
+Generated: 20240923_160038
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-fNwXswV8Vb9ceZep6qemkyv4.png?st=2024-09-23T14%3A00%3A32Z&se=2024-09-23T16%3A00%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-23T02%3A10%3A38Z&ske=2024-09-24T02%3A10%3A38Z&sks=b&skv=2024-08-04&sig=41IxwzrpqEjbKtKTWfm%2BZOhEilwm4xe2M%2B1MeRWD7U8%3D

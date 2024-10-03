@@ -1,0 +1,8 @@
+Song: Why Why Why
+Artist: Shaun Mendes
+Genres: viral pop, pop, canadian pop
+Mood: nan
+Lyrics: True
+Prompt: A close-up of a vintage journal with a pen poised above an open page, surrounded by crumpled sheets of paper. A dark, unfocused room with a single dim light highlighting the journal gives a somber tone. In the background, a blurred figure sits on a bed, head in hands.
+Generated: 20240905_163635
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-Cne7XvvjgDNUMK8YLMBzfErm.png?st=2024-09-05T14%3A36%3A33Z&se=2024-09-05T16%3A36%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-04T21%3A18%3A49Z&ske=2024-09-05T21%3A18%3A49Z&sks=b&skv=2024-08-04&sig=WBCalAgkgVn%2BEtCzHPPpQqkHCeN1TAcXpHzzVN6P3/I%3D

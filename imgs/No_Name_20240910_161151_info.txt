@@ -1,0 +1,8 @@
+Song: No Name
+Artist: The Wellermen
+Genres: Traditional, Folk, Scottish
+Mood: Calm, Beautiful, Lush, Slow
+Lyrics: True
+Prompt: A lush, rolling landscape of blooming heather and wild thyme under a warm, golden summertime sky. Clear, sparkling water flows through the scene, reflecting the vibrant colors of nature. A quaint, rustic bower constructed from wood and natural materials sits cozily by the water's edge, adorned with mountain flowers.
+Generated: 20240910_161151
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-mC36vAKEhtCVA5qRdkep8IiK.png?st=2024-09-10T14%3A11%3A50Z&se=2024-09-10T16%3A11%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-09T23%3A37%3A09Z&ske=2024-09-10T23%3A37%3A09Z&sks=b&skv=2024-08-04&sig=cFnvHdkOwcC4r3X8Swb7TuhJrKRZ1Bc%2BiHqWQ2rgY48%3D

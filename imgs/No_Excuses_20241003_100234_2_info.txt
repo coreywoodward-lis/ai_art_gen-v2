@@ -1,0 +1,21 @@
+Song: No Excuses
+Artist: Bru-C
+Genres: nottingham hip hop, charva, bassline
+Mood: ["energetic"]
+Lyrics: [Intro]
+
+Oy
+
+Yeah, yeah-eh, I
+
+Bru-C
+
+What we sayin'?
+
+We're goin' out tonight, my G's
+
+...
+Seed Idea: 2. A dark, urban cityscape at night, lit in neon colors, subtly suggesting the shape of a wave at the bottom.
+Prompt: Bathed in neon colors, a detailed cityscape unfolds under the cover of night. Skyscrapers tower aggressively under a starless sky, their sharp angles softened by the vibrant glow of unnumbered hidden lights. At the bottom of the frame, the silhouetted rooftop outlines subtly hint at the undulating shape of a wave.
+Generated: 20241003_100234
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-tIVEcgI1VlOuA2DSFAivNqYU.png?st=2024-10-03T08%3A02%3A32Z&se=2024-10-03T10%3A02%3A32Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T19%3A04%3A26Z&ske=2024-10-03T19%3A04%3A26Z&sks=b&skv=2024-08-04&sig=NyX2BJBK0DzQaabC3wuzmqYyzqhVW48R4%2BeArztFBkw%3D

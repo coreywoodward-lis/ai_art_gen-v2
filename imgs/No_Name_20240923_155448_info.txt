@@ -1,0 +1,8 @@
+Song: No Name
+Artist: The Wellermen
+Genres: Traditional, Folk, Scottish
+Mood: Calm, Beautiful, Lush, Slow
+Lyrics: True
+Prompt: A serene landscape featuring rolling green hills blanketed with vibrant, blooming heather and wild mountain thyme. A clear, crystal fountain sits in the foreground, reflecting the soft light of a summer day. Trees with lush green foliage add depth and tranquility to the scene, under a pale blue sky with wisps of white clouds.
+Generated: 20240923_155448
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-xDVgeZ7NPSfEDbmGH7igy6ib.png?st=2024-09-23T13%3A54%3A46Z&se=2024-09-23T15%3A54%3A46Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-23T04%3A23%3A55Z&ske=2024-09-24T04%3A23%3A55Z&sks=b&skv=2024-08-04&sig=cxPK0O9DEUTCN2ys/yvkZgJtTQ74GCSz29ZQSqS/Z7M%3D

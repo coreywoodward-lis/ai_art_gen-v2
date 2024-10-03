@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Mood: ["energetic","aggressive","uplifting"]
+Lyrics: True
+Prompt: Against a dark textured background, a brightly colored balaclava covers the face of a person, with only the eyes visible. A single hand, adorned with glittering rings and jewelry, is raised in a gesture that seems confrontational. Neon lights cast bold highlights, creating an intense and edgy atmosphere.
+Generated: 20240905_163306
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-CwgaXVpcNrEE3ta8j64rygOE.png?st=2024-09-05T14%3A33%3A03Z&se=2024-09-05T16%3A33%3A03Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-04T21%3A24%3A33Z&ske=2024-09-05T21%3A24%3A33Z&sks=b&skv=2024-08-04&sig=wOdAXxHdfdEZ091dKM8nSkOF5yq4V2XquuACkVH36u8%3D

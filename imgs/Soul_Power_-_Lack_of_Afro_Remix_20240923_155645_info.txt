@@ -1,0 +1,8 @@
+Song: Soul Power - Lack of Afro Remix
+Artist: Kokolo
+Genres: afrobeat, bboy, british soul, brass band, instrumental funk
+Mood: ["happy","energetic","chilled"]
+Lyrics: True
+Prompt: A vibrant illustration features a dynamic fusion of musical notes and abstract shapes in various bright, bold colors against a deep, rich background. Prominent, energetic swirls and patterns evoke a sense of rhythm and movement. The overall design feels lively and celebratory.
+Generated: 20240923_155645
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-o7BHOc7n5bjr4GByiFJ8XtAO.png?st=2024-09-23T13%3A56%3A42Z&se=2024-09-23T15%3A56%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-22T23%3A39%3A58Z&ske=2024-09-23T23%3A39%3A58Z&sks=b&skv=2024-08-04&sig=bC43166/h4GMc29Ws/Sty8tN0f6b%2B4oebYi0BxW%2BOnc%3D

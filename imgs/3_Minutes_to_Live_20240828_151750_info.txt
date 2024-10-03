@@ -1,0 +1,7 @@
+Song: 3 Minutes to Live
+Artist: Yizzy
+Genres: grime, uk melodic rap
+Lyrics: False
+Prompt: A digital clock display shows the time "00:03:00" in bright red numbers against a pitch-black background. Below the clock, there is an image of a live wire sparking with blue and white electric currents. The artist's name, "Yizzy," is written in bold silver letters at the top, and the song title, "3 Minutes to Live," is emblazoned in jagged, distressed white font beneath the wire.
+Generated: 20240828_151750
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-NCYEbSMQAHkprLxvmtsIfVgt.png?st=2024-08-28T13%3A17%3A48Z&se=2024-08-28T15%3A17%3A48Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-08-27T23%3A17%3A56Z&ske=2024-08-28T23%3A17%3A56Z&sks=b&skv=2024-08-04&sig=a6wuYG5PJQ57b/waqUWqPFtgJc8aE2FW6FTqnsLyXFU%3D

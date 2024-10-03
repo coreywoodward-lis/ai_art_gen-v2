@@ -1,0 +1,11 @@
+Song: HIGHJACK
+Artist: A$AP Rocky
+Genres: rap, hip hip, freak folk, art pop, ambient folk, east coast hip hop
+Mood: ["energetic"]
+Lyrics: Like that
+They hit my phone, talkin' shit, and I don't like that
+Niggas talk about me, where they ...
+Seed Idea: 1. A stark cityscape at night with a single glowing payphone on a deserted street corner under a dim street lamp.
+Prompt: Under a cobalt night sky, a desolate urban landscape extends to the horizon. At the corner of an empty street, a single payphone bathes in the soft, yellow glow of a solitary street lamp. The loneliness of the scene is intensified by the distinctive absence of human life, evoking a stark cityscape from a Noir film, steeped in mystery and anticipation.
+Generated: 20241002_160939
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-zTapeZNFC26O2IpS7F1Ulmws.png?st=2024-10-02T14%3A09%3A37Z&se=2024-10-02T16%3A09%3A37Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T14%3A50%3A26Z&ske=2024-10-03T14%3A50%3A26Z&sks=b&skv=2024-08-04&sig=HiwYTe%2BYSPC6/XvErcQEARYGuTM385VNz4FtkKXTqKI%3D

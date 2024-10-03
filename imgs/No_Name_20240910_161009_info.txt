@@ -1,0 +1,8 @@
+Song: No Name
+Artist: The Wellermen
+Genres: Traditional, Folk, Scottish
+Mood: Calm, Beautiful, Lush, Slow
+Lyrics: True
+Prompt: A picturesque mountain landscape with wild thyme and heather in full bloom. A couple walks hand-in-hand through the vibrant field, surrounded by tall, lush trees and a clear, sparkling fountain in the background. The scene is bathed in warm, golden sunlight, capturing the essence of a blooming and serene summer day.
+Generated: 20240910_161009
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-IgG9dGsqw1Pt9BXsdWN9hcRO.png?st=2024-09-10T14%3A10%3A06Z&se=2024-09-10T16%3A10%3A06Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-10T00%3A01%3A17Z&ske=2024-09-11T00%3A01%3A17Z&sks=b&skv=2024-08-04&sig=6SVZuJ/W2bk//lQ7vz3NcRC9OpB3wbxWq73OV9EF60g%3D

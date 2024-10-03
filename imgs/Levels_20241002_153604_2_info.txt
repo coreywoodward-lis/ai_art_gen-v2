@@ -1,0 +1,11 @@
+Song: Levels
+Artist: Avicii
+Genres: pop, edm, dance pop, pop dance
+Mood: ["happy","uplifting","energetic"]
+Lyrics: [Chorus: Etta James]
+Oh, sometimes I get a good feeling, yeah
+Get a feeling that I never, never, n...
+Seed Idea: 2. A euphoric dancer silhouetted against a brightly coloured disco ball that's scattering light beams.
+Prompt: A jubilant, silhouetted figure is dancing joyfully. They are highlighted by a vibrant disco ball in the background that radiates multicoloured beams of light throughout the scene. The style used is glowing and radiating, capturing the high-energy mood.
+Generated: 20241002_153604
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-xaNmLnMrXaUkxjzYkZDeDbEZ.png?st=2024-10-02T13%3A36%3A02Z&se=2024-10-02T15%3A36%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T14%3A06%3A30Z&ske=2024-10-03T14%3A06%3A30Z&sks=b&skv=2024-08-04&sig=rvB67UMO/XDxz4GDAP0ZLsFxELYHwKXZEmkMh8tIwNw%3D

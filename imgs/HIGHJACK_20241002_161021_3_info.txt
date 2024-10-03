@@ -1,0 +1,11 @@
+Song: HIGHJACK
+Artist: A$AP Rocky
+Genres: rap, hip hip, freak folk, art pop, ambient folk, east coast hip hop
+Mood: ["energetic"]
+Lyrics: Like that
+They hit my phone, talkin' shit, and I don't like that
+Niggas talk about me, where they ...
+Seed Idea: 3. A stylized, intricate labyrinth reflecting the gleam of a golden chain laying atop.
+Prompt: In a graphic, urban style, an intricate labyrinth takes center stage, its sharply-angled paths mimicking a graffiti design. The labyrinth is stylized and slightly abstract, etched in a silvery hue that provides a stark, vibrant contrast against a pitch-black background. A gleaming golden chain is carefully draped over the labyrinth, its individual links catching the imaginary light and casting faint reflections onto the labyrinth's metallic surface.
+Generated: 20241002_161021
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-6MOopPDumGyC5Alkc6aCKj18.png?st=2024-10-02T14%3A10%3A19Z&se=2024-10-02T16%3A10%3A19Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T02%3A20%3A53Z&ske=2024-10-03T02%3A20%3A53Z&sks=b&skv=2024-08-04&sig=itkHgjjz8%2BTNLVsT6Pv%2BeKSnahH58x9sFHYRfJTOp4g%3D

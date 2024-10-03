@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Mood: ["energetic","aggressive","uplifting"]
+Lyrics: False
+Prompt: A detailed close-up of a person's face, focusing intensely on their eyes. The lighting casts dramatic shadows, emphasizing the contours and texture of their skin. The background is a muted dark tone, bringing all attention to the intricate facial details.
+Generated: 20240910_155752
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-G6ACHNMfzZoL30KLhrjWEozu.png?st=2024-09-10T13%3A57%3A50Z&se=2024-09-10T15%3A57%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-09T23%3A37%3A12Z&ske=2024-09-10T23%3A37%3A12Z&sks=b&skv=2024-08-04&sig=oAJCpDbcoQgxt5lsqAVpryUPvX3AXt1Q2TRDmhyKyx4%3D

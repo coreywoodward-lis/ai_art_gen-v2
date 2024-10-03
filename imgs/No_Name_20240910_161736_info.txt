@@ -1,0 +1,8 @@
+Song: No Name
+Artist: The Wellermen
+Genres: Traditional, Folk, Scottish
+Mood: Calm, Beautiful, Lush, Slow
+Lyrics: True
+Prompt: A vintage painting of a misty mountainside covered in blooming heather, with muted purples and greens. A small stone cottage nestled near a clear fountain, with dark, stormy clouds looming overhead. The scene is softly lit, with a weathered, nostalgic feel.
+Generated: 20240910_161736
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-hh1Dan2CKhDKOgjLsyvJ9yew.png?st=2024-09-10T14%3A17%3A33Z&se=2024-09-10T16%3A17%3A33Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-09T23%3A05%3A14Z&ske=2024-09-10T23%3A05%3A14Z&sks=b&skv=2024-08-04&sig=aNaEW1hkOUnjAUZ15irvJJ9ek5IS8M63DyuyKrkwF9U%3D

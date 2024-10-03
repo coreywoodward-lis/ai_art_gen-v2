@@ -1,0 +1,8 @@
+Song: Summer
+Artist: Calvin Harris
+Genres: uk dance, progressive house, pop, house, electro house, edm, dance pop
+Mood: ["happy","energetic","uplifting"]
+Lyrics: True
+Prompt: A bright, sunlit beach scene with golden sand and clear blue waters. In the foreground, a silhouette of a couple holding hands, casting long, playful shadows. Vibrant palm trees frame the sides, with a clear, cloudless sky overhead.
+Generated: 20240923_160713
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-nBsJUnzoDAOaKQq7JDXdKctq.png?st=2024-09-23T14%3A07%3A09Z&se=2024-09-23T16%3A07%3A09Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-22T23%3A33%3A06Z&ske=2024-09-23T23%3A33%3A06Z&sks=b&skv=2024-08-04&sig=YPS1ONfTN0KkDdOVpeXG5N2ybNe%2Be3JYldKXdjkj1kg%3D

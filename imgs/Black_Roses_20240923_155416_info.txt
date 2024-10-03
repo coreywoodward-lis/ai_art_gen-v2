@@ -1,0 +1,8 @@
+Song: Black Roses
+Artist: Barrington Levi
+Genres: reggae, roots reggae, reggae fusion
+Mood: ["chilled"]
+Lyrics: True
+Prompt: A single black rose with delicate petals stands prominently against a soft, blurred garden background in shades of green and brown. Gentle droplets of water glisten on the rose's petals, capturing the light. The overall ambiance is tranquil and intimate, with a hint of morning mist.
+Generated: 20240923_155416
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-4VOWq10Z43VPiTCUM2ZG5KQy.png?st=2024-09-23T13%3A54%3A14Z&se=2024-09-23T15%3A54%3A14Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-23T08%3A43%3A54Z&ske=2024-09-24T08%3A43%3A54Z&sks=b&skv=2024-08-04&sig=wLGAbDTw3b3E6Xi5%2B8wZfFJ4cxK0Po5HwCML5eYakAI%3D

@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Lyrics: True
+Seed Idea: 2. An optical illusion implying a backbone; vintage telephone wires tangled around a rough cityscape with the shadows they cast presenting the image of a backbone.
+Prompt: A cityscape is tightly enwrapped by antique telephone wires, weaving intricately amongst the rough buildings. The play of light and shadow formed by these wires projects onto the city, creating a surprising optical illusion of a human backbone.
+Generated: 20241002_141932
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-aBp8ub7beS8uPc0A9l1xXEF6.png?st=2024-10-02T12%3A19%3A29Z&se=2024-10-02T14%3A19%3A29Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-01T16%3A24%3A55Z&ske=2024-10-02T16%3A24%3A55Z&sks=b&skv=2024-08-04&sig=/UpImfvPJE5AarycHk4hHa3kALr73Mu%2B5pAkonFGT%2BM%3D

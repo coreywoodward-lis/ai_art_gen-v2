@@ -1,0 +1,8 @@
+Song: Anatolia
+Artist: Thylacine
+Genres: new french touch, french indietronica, french indie hop
+Mood: nan
+Lyrics: True
+Prompt: A panoramic landscape features rolling, sunlit hills under a vast, cloud-dotted sky. Golden fields stretch out into the horizon, creating a serene and expansive atmosphere. The overall color palette includes soft blues, warm golds, and hints of green.
+Generated: 20240923_155143
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-y633oVQKeWsfjJpS584pcCJJ.png?st=2024-09-23T13%3A51%3A41Z&se=2024-09-23T15%3A51%3A41Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-23T04%3A41%3A49Z&ske=2024-09-24T04%3A41%3A49Z&sks=b&skv=2024-08-04&sig=c5lVMawuhZu2ErJDBDzdMpCfOd/YvhlME3sworojjzY%3D

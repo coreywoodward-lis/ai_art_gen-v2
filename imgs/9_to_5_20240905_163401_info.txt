@@ -1,0 +1,8 @@
+Song: 9 to 5
+Artist: Dolly Parton
+Genres: country dawn, country, classic country pop
+Mood: ["happy"]
+Lyrics: True
+Prompt: A retro alarm clock displaying 9:00, set against a bright, cheerful yellow background. An illustrated coffee mug with steam rising and a vintage office desk with a typewriter and paperwork in the foreground. The overall design is colorful and playful.
+Generated: 20240905_163401
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-LdvaiWrzBzo3HE9xQ2uhP6c0.png?st=2024-09-05T14%3A33%3A58Z&se=2024-09-05T16%3A33%3A58Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-04T21%3A23%3A19Z&ske=2024-09-05T21%3A23%3A19Z&sks=b&skv=2024-08-04&sig=yLM2W40aU/jmaPEhky4AyIXPTmxw9Gymxdd/mn0BjvI%3D

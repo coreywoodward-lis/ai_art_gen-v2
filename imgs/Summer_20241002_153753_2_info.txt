@@ -1,0 +1,13 @@
+Song: Summer
+Artist: Calvin Harris
+Genres: uk dance, progressive house, pop, house, electro house, edm, dance pop
+Mood: ["happy","energetic","uplifting"]
+Lyrics: [Chorus]
+When I met you in the summer
+To my heartbeat's sound
+We fell in love
+As the leaves turn...
+Seed Idea: 2. A stylized visual of a couple's silhouettes falling into each other, overlaid on a color gradient from green (symbolizing summer) to brown (signifying fall).
+Prompt: Two silhouettes, representing a couple, merge into each other on a gradient backdrop that transitions from a lush green to a deep brown. The characters are stylized, representing a sense of falling into each other. The scene is encapsulated in an effervescent and upbeat atmosphere.
+Generated: 20241002_153753
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-i3qlWG8njRNhfqG2hFlPMDdu.png?st=2024-10-02T13%3A37%3A51Z&se=2024-10-02T15%3A37%3A51Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T11%3A58%3A12Z&ske=2024-10-03T11%3A58%3A12Z&sks=b&skv=2024-08-04&sig=nhJ2diKr/qO4oRnfjyWJl3rzT/0iPV3Edzm/ZXoBFds%3D

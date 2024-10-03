@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Mood: ["energetic","aggressive","uplifting"]
+Lyrics: False
+Prompt: A monochromatic close-up of a human spine is overlaid with a gritty texture. The spine appears illuminated against a dark background, giving it a stark, almost X-ray-like appearance. The overall aesthetic is raw and intense.
+Generated: 20240910_155643
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-1kGfaVWc05AerFC18QnOJGQU.png?st=2024-09-10T13%3A56%3A41Z&se=2024-09-10T15%3A56%3A41Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-09T23%3A17%3A27Z&ske=2024-09-10T23%3A17%3A27Z&sks=b&skv=2024-08-04&sig=Gyoi2ywU2pzwUYFPOruqmjlbuaHUnh5o7fJV5n8gW78%3D

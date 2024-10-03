@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Lyrics: True
+Seed Idea: 1. A silhouette of a spine made up of various urban elements such as scaffolding, ladders and drain pipes.
+Prompt: A silhouette of a human spine is in the center, composed entirely of urban components. Different elements like drain pipes, ladders, and scaffolding intricately form this complex spinal structure. The overall tone is monochromatic, emphasizing the silhouette against a neutral background.
+Generated: 20241002_141913
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-8GSdwDyjBGpj0Ko1ODkn37z5.png?st=2024-10-02T12%3A19%3A09Z&se=2024-10-02T14%3A19%3A09Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T02%3A10%3A13Z&ske=2024-10-03T02%3A10%3A13Z&sks=b&skv=2024-08-04&sig=cecp%2Bg38fkDAih0u5w%2BHpZHxwfOd/qDFKic8Pj3lvzI%3D

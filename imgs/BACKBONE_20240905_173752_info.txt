@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Mood: ["energetic","aggressive","uplifting"]
+Lyrics: True
+Prompt: A detailed close-up of a person's face dominates the cover, capturing an intense expression with furrowed brows and piercing eyes. The background features a gritty urban texture with dark, smokey hues. Stark, high-contrast lighting accentuates the contours and details of the face, emphasizing the raw and energetic feel of the artwork.
+Generated: 20240905_173752
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-ay92RiufjHX6KGckUUAdhBjj.png?st=2024-09-05T15%3A37%3A50Z&se=2024-09-05T17%3A37%3A50Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-04T22%3A56%3A37Z&ske=2024-09-05T22%3A56%3A37Z&sks=b&skv=2024-08-04&sig=6FLxZbdWUvlGUdnv5oO3zMhRtIEKwmn8Fwf/%2BbFg/wc%3D

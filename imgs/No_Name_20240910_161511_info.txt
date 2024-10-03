@@ -1,0 +1,8 @@
+Song: No Name
+Artist: The Wellermen
+Genres: Traditional, Folk, Scottish
+Mood: Calm, Beautiful, Lush, Slow
+Lyrics: True
+Prompt: A nostalgic landscape in muted tones, featuring rolling hills with blooming heather and wild mountain thyme. An old-style, rustic wooden bower stands near a clear, gently flowing fountain. The overall design evokes a serene, timeless countryside.
+Generated: 20240910_161511
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-kwnmVlUgCeVb8NE9D0dQYRff.png?st=2024-09-10T14%3A15%3A10Z&se=2024-09-10T16%3A15%3A10Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-09T23%3A31%3A44Z&ske=2024-09-10T23%3A31%3A44Z&sks=b&skv=2024-08-04&sig=OJ%2B%2BYOP%2B%2BYiZTwQjhKDR28KUaEPyWxP/3Uy2JEaKY88%3D

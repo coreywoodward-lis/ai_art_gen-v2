@@ -1,0 +1,11 @@
+Song: HIGHJACK
+Artist: A$AP Rocky
+Genres: rap, hip hip, freak folk, art pop, ambient folk, east coast hip hop
+Mood: ["energetic"]
+Lyrics: Like that
+They hit my phone, talkin' shit, and I don't like that
+Niggas talk about me, where they ...
+Seed Idea: 2. A stylized, abstract representation of a cityscape, conveying the energy and spirit of East Coast hip hop.
+Prompt: An abstract cityscape of varying shades of grey fills the cover, sharply angled to simulate the energy of a bustling city environment. Neon streaks of green and yellow dash through the grayscale cityscape like lightning, symbolizing the energetic pulse of East Coast hip hop. The urban skyline design carries a modern touch, with the blocky, abstract building shapes coalescing into a stylized tribute to the genre and culture.
+Generated: 20241002_160641
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-HkLtiSEeq7wsVeg0VCAAvuvJ.png?st=2024-10-02T14%3A06%3A39Z&se=2024-10-02T16%3A06%3A39Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T09%3A49%3A20Z&ske=2024-10-03T09%3A49%3A20Z&sks=b&skv=2024-08-04&sig=0dOLnQLj3/q82xwnV1oNCeeql8YPuvv83UKtW8j%2BMMk%3D

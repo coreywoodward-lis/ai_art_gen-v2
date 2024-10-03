@@ -1,0 +1,8 @@
+Song: BACKBONE
+Artist: Chase & Status and Stormzy
+Genres: uk dance, drum and bass, dancefloor dnb, uk hip hop, grime
+Lyrics: True
+Seed Idea: 3. Close-up of dense graffiti wall art with a subliminal image of a twisting, almost dancing human spine.
+Prompt: A vivid close-up view of a densely graffitied wall reveals a barely perceptible image of a twisting, dance-like human spine. Intricately interwoven within the colorful swirls of graffiti, it offers a sublime fusion of street art with human anatomy. The richly hued wall serves as an unconventional canvas, presenting a multifaceted echo of urban culture.
+Generated: 20241002_141951
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-cazBHQj0lMnvY5XL2pDG30ER.png?st=2024-10-02T12%3A19%3A49Z&se=2024-10-02T14%3A19%3A49Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-01T14%3A22%3A36Z&ske=2024-10-02T14%3A22%3A36Z&sks=b&skv=2024-08-04&sig=8cA2VgCCTapbNHebpkBk64vQmtw9LGBS7wZ2CPbHbbw%3D

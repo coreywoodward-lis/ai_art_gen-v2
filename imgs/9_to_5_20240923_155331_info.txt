@@ -1,0 +1,8 @@
+Song: 9 to 5
+Artist: Dolly Parton
+Genres: country dawn, country, classic country pop
+Mood: ["happy"]
+Lyrics: True
+Prompt: A vintage desktop clock showing the time as 9:00 AM sits beside a steaming coffee mug, both placed on a wooden desk. In the background, a window reveals a vibrant cityscape with people bustling about. Bright, cheerful colors dominate the scene, with a warm morning light filtering through the window.
+Generated: 20240923_155331
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-7V28srh3InCCPvHtIm8kioWl.png?st=2024-09-23T13%3A53%3A24Z&se=2024-09-23T15%3A53%3A24Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-09-22T23%3A54%3A32Z&ske=2024-09-23T23%3A54%3A32Z&sks=b&skv=2024-08-04&sig=R/6izFWpw0BVf0Cqo3bTbgtW7j5%2BBFMDelrbT0N84ow%3D

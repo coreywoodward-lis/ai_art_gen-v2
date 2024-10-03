@@ -1,0 +1,12 @@
+Song: B.O.T.A.
+Artist: Eliza Rose
+Genres: house, breaks, experimental house
+Mood: ["happy"]
+Lyrics: She's the baddest of them all
+The baddest of them all
+She's the baddest of them all
+The baddest o...
+Seed Idea: 1. Silhouette of a confident woman in dance pose under a disco ball emitting rays of multi-colored light.
+Prompt: A confident female silhouette strikes a dynamic dance pose beneath a dazzling disco ball. The ball emits vibrant, multicolored rays, illuminating her figure and casting a rainbow of dancing lights around a dark room. The image has a striking contrast and a festive, energetic mood.
+Generated: 20241002_155602
+Image URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-ymp0hE0e6iDedRYfbYn1TqEs/user-HigZPcJFODB0fAhM618eJuTS/img-lYhdVlQZdRihwAMF98LR3g7L.png?st=2024-10-02T13%3A56%3A00Z&se=2024-10-02T15%3A56%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-10-02T01%3A36%3A40Z&ske=2024-10-03T01%3A36%3A40Z&sks=b&skv=2024-08-04&sig=8mEnYJaqZA3NVQm9MdPvmG4kweb0eKlhbbpIV1m6eNU%3D
