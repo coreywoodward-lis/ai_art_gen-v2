@@ -9,6 +9,7 @@ import requests
 from io import BytesIO
 from PIL import Image
 from dotenv import load_dotenv
+import time
 
 PARENT_DIR = Path(__file__).parent
 MP3_DIR = PARENT_DIR / "mp3s"
@@ -20,13 +21,12 @@ if OPENAI_API_KEY is None:
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
-def create_seed_idea(song_info, selected_fields, custom_aesthetic):
+def create_seed_idea(song_info, custom_aesthetic):
     """
     Creates a single seed idea for generating cover art based on song information.
 
     Args:
         song_info (dict): A dictionary containing song information.
-        selected_fields (list): A list of selected fields to include in the prompt.
         custom_aesthetic (str): Custom aesthetic elements to include in the prompt.
 
     Returns:
@@ -42,16 +42,11 @@ def create_seed_idea(song_info, selected_fields, custom_aesthetic):
 
     prompt_parts = []
     prompt_parts.append(f"Generate a single seed idea for cover art for a song ")
-    if 'Track' in selected_fields:
-        prompt_parts.append(f"called '{song_info['Track']}' ")
-    if 'Artist (lyrics)' in selected_fields:
-        prompt_parts.append(f"by {song_info['Artist (lyrics)']}")
-    if 'Genre' in selected_fields:
-        prompt_parts.append(f". The genres are: {song_info['Genre']}")
-    if 'Mood' in selected_fields:
-        prompt_parts.append(f". The mood is: {song_info['Mood']}")
-    if 'Lyrics' in selected_fields:
-        prompt_parts.append(f"The lyrics are: {song_info['Lyrics']}...")
+    prompt_parts.append(f"called '{song_info['Track']}' ")
+    prompt_parts.append(f"by {song_info['Artist (lyrics)']}")
+    prompt_parts.append(f". The genres are: {song_info['Genre']}")
+    prompt_parts.append(f". The mood is: {song_info['Mood']}")
+    prompt_parts.append(f"The lyrics are: {song_info['Lyrics']}...")
     if custom_aesthetic:
         prompt_parts.append(f"Include these aesthetic elements: {custom_aesthetic}")
     prompt_parts.append("Do not include a detailed depiction of a person in the idea.")
@@ -67,14 +62,13 @@ def create_seed_idea(song_info, selected_fields, custom_aesthetic):
     
     return completion.choices[0].message.content.strip()
 
-def create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic):
+def create_prompt(seed_idea, song_info, custom_aesthetic):
     """
     Creates a prompt for generating cover art based on a seed idea and song information.
 
     Args:
         seed_idea (str): A seed idea for the cover art.
         song_info (dict): A dictionary containing song information.
-        selected_fields (list): A list of selected fields to include in the prompt.
         custom_aesthetic (str): Custom aesthetic elements to include in the prompt.
 
     Returns:
@@ -106,13 +100,12 @@ def create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic):
     
     return image_prompt
 
-def generate_image(prompt, style, song_info, selected_fields, custom_aesthetic, max_retries=3):
+def generate_image(prompt, song_info, custom_aesthetic, max_retries=3):
     """
     Generates an image based on the provided prompt using DALL-E 3.
 
     Args:
         prompt (str): The prompt to generate the image from.
-        style (str): The style of the image, either "vivid" or "natural".
         max_retries (int): The maximum number of retries if DALL-E refuses to generate the image.
 
     Returns:
@@ -125,8 +118,8 @@ def generate_image(prompt, style, song_info, selected_fields, custom_aesthetic, 
                 model="dall-e-3",
                 prompt=prompt,
                 size="1024x1024",
-                quality="standard",
-                style=style,
+                quality="hd",
+                style="natural",  # Always use "natural" style
                 n=1,
             )
             image_url = response.data[0].url
@@ -134,7 +127,7 @@ def generate_image(prompt, style, song_info, selected_fields, custom_aesthetic, 
         except openai.error.InvalidRequestError as e:
             if e.code == "invalid_request":
                 retry_count += 1
-                prompt = create_prompt("", song_info, selected_fields, custom_aesthetic)
+                prompt = create_prompt("", song_info, custom_aesthetic)
                 if retry_count == max_retries:
                     raise e
             else:
@@ -172,7 +165,7 @@ def moderate(text):
         bool: True if the text violates the moderation policy, False otherwise.
     """
     if not text:  # Guard API from empty strings
-        return True
+        return False
     r = client.moderations.create(input=f'Please create a detailed description of art depicting the following: {text}')
     content_violation = r.results[0].flagged
     return content_violation 
@@ -188,17 +181,7 @@ def main():
     song_options = [f"{row['Track']} - {row['Artist (lyrics)']}" for _, row in song_data.iterrows()]
     selected_song = st.selectbox("Select a song", song_options)
 
-    st.subheader("Select information to use for image generation")
-    use_artist = st.checkbox("Artist Name", value=True)
-    use_song = st.checkbox("Song Name", value=True)
-    use_genres = st.checkbox("Genres", value=True)
-    use_mood = st.checkbox("Mood", value=True)
-    use_lyrics = st.checkbox("Lyrics", value=True)
-
     custom_aesthetic = st.text_input("Enter any custom aesthetic elements (optional)")
-
-    image_style = st.radio("Image Style", ("Natural", "Vivid"))
-    image_style = image_style.lower()
 
     selected_index = song_options.index(selected_song)
     song_info = song_data.iloc[selected_index]
@@ -216,31 +199,18 @@ def main():
         selected_index = song_options.index(selected_song)
         song_info = song_data.iloc[selected_index]
 
-        selected_fields = []
-        if use_artist:
-            selected_fields.append("Artist (lyrics)")
-        if use_song:
-            selected_fields.append("Track")
-        if use_genres:
-            selected_fields.append("Genre")
-        if use_mood:
-            selected_fields.append("Mood")
-        if use_lyrics:
-            selected_fields.append("Lyrics")
-
         flags = []
         if custom_aesthetic:
             if moderate(custom_aesthetic):
                 flags.append('Custom Aesthetic')
         
-        if use_lyrics:
-            if moderate(song_info['Lyrics']):
-                pass
+        if moderate(song_info['Lyrics']):
+            pass
 
         if flags:
             st.error(f"The following fields did not pass our moderation check: {', '.join(flags)}. Please ensure all content is appropriate.")
         else:
-            seed_idea = create_seed_idea(song_info, selected_fields, custom_aesthetic)
+            seed_idea = create_seed_idea(song_info, custom_aesthetic)
             
             st.subheader("Generated Seed Idea:")
             st.info(seed_idea)
@@ -248,18 +218,19 @@ def main():
             images = []
             cols = st.columns(3)
             for i, col in enumerate(cols, 1):
-                prompt = create_prompt(seed_idea, song_info, selected_fields, custom_aesthetic)
+                prompt = create_prompt(seed_idea, song_info, custom_aesthetic)
+                
                 with col:
-                    st.text(f"Prompt {i}:")
-                    st.info(prompt)
-
                     with st.spinner(f'Generating image {i}...'):
+                        start_time = time.time()  # Start the timer
                         try:
-                            image_path, image_url = generate_image(prompt, image_style, song_info, selected_fields, custom_aesthetic)
+                            image_path, image_url = generate_image(prompt, song_info, custom_aesthetic)
                             images.append((image_path, image_url))
                         except openai.error.InvalidRequestError:
                             st.warning(f"DALL-E refused to generate image {i} after multiple attempts. Skipping this image.")
                             continue
+                        end_time = time.time()  # End the timer
+                        elapsed_time = end_time - start_time  # Calculate the elapsed time
                     
                     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
                     save_name = f"{song_info['Track'].replace(' ', '_')}_{timestamp}_{i}"
@@ -273,11 +244,11 @@ def main():
                         f.write(f"Mood: {song_info['Mood']}\n")
                         f.write(f"Lyrics: {song_info['Lyrics'][:100]}...\n")
                         f.write(f"Seed Idea: {seed_idea}\n")
-                        f.write(f"Prompt: {prompt}\n")
                         f.write(f"Generated: {timestamp}\n")
                         f.write(f"Image URL: {image_url}\n")
 
                     st.image(image_path, caption=f"Cover art {i}", use_column_width=True, width=400)
+                    st.info(f"Time taken to generate image {i}: {elapsed_time:.2f} seconds")  # Display the time taken
 
             st.success("Three cover art variations generated successfully!")
 
